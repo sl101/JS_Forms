@@ -1,3 +1,4 @@
+
 let form = document.querySelector('.form');
 
 form.addEventListener('submit', (e) => {
@@ -12,3 +13,4 @@ const square = (r) => {
 	const resultElement = document.querySelector('.form__result');
 	resultElement.innerText = `Площадь равна: ${result}`;
 };
+
