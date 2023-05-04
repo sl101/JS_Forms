@@ -19,7 +19,7 @@
    border-radius: 3px;
 }
 
-.from_input {
+.from__input {
    width: 350px;
    color: darkslategrey;
    font-family: Arial, Helvetica, sans-serif;
@@ -29,7 +29,7 @@
    line-height: 16px;
 }
 
-.form_button {
+.form__button {
    position: absolute;
    border: none;
    border-radius: 5px;
@@ -44,14 +44,14 @@
    bottom: 10px;
 }
 
-.form_button-accent {
+.form__button-accent {
    background-color: chocolate;
    box-shadow: 3px 3px 3px rgb(69, 34, 47);
    color: rgb(244, 240, 233);
 }
 
 
-.form_result {
+.form__result {
    display: flex;
    gap: 12px;
    justify-content: space-around;
