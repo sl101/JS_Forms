@@ -1,3 +1,3 @@
 # JS_Forms
 
-- [посмотреть](https://github.com/sl101/JS_Forms/)
+- [посмотреть](https://sl101.github.io/JS_Forms/)
